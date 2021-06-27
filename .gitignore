@@ -17,7 +17,7 @@
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
-[Rr]eleases/
+[Rr]eleases/d
 x64/
 x86/
 [Aa][Rr][Mm]/
@@ -246,7 +246,6 @@ ServiceFabricBackup/
 *.rptproj.bak
 
 # SQL Server files
-*.mdf
 *.ldf
 *.ndf
 
